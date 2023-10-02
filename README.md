@@ -1,4 +1,5 @@
 # Dicoding Ecommerce Dashboard
+Proyek ini merupakan tugas akhir dari program analisis data yang diadakan oleh Dicoding dalam kelas ID Camp 2023 Data Science. Dalam proyek ini, peserta memiliki opsi untuk memilih salah satu dari tiga dataset yang disediakan, dan saya telah memilih dataset e-commerce sebagai fokus analisis.
 
 ## Setup environment
 ```
