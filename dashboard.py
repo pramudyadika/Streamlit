@@ -80,7 +80,7 @@ for column in datetime_columns:
 with st.sidebar:
     
      # Menambahkan logo perusahaan
-    st.image("https://github.com/dicodingacademy/assets/raw/main/logo.png")
+    st.image(image='image/ecommerce3d.png' )
     
     # Mengambil start_date & end_date dari date_input
     start_date, end_date = st.date_input(

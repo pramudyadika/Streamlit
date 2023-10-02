@@ -12,3 +12,9 @@ pip install pandas matplotlib streamlit
 ```
 python -m streamlit run dashboard.py 
 ```
+
+## Dashboard Link
+pd-dashboard-dicoding-ds.streamlit.app
+
+## Screenshot Dashboard
+![](images/Screenshot_2.png)
