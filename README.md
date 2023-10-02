@@ -17,4 +17,4 @@ python -m streamlit run dashboard.py
 pd-dashboard-dicoding-ds.streamlit.app
 
 ## Screenshot Dashboard
-![](images/Screenshot_2.png)
+![](image/Screenshot_2.png)
